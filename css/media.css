@@ -1,0 +1,1822 @@
+@media (max-width: 1200px) {
+    .container {
+        max-width: 1140px;
+    }
+
+    /* index */
+
+    .menu__item+.menu__item {
+        padding-left: 55px;
+    }
+
+    .info-company__item {
+        min-width: 350px;
+        background-size: 150%;
+        background-position-y: -51px;
+    }
+
+    .info-company__item.item-another {
+        background-size: 150%;
+        background-position-y: -50px;
+    }
+
+    .method__img img {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* index */
+
+    /* attorney */
+
+    .attorney {
+        background-position-x: -450px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__info::before {
+        left: -10px;
+    }
+
+    .contact-form__left {
+        margin-right: 10px;
+    }
+
+    .map__iframe {
+        width: 700px;
+    }
+
+    .contact-news__inner {
+        justify-content: space-evenly;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .faq__info {
+        max-width: 800px;
+    }
+
+    .rewievs__info-box {
+        width: 545px;
+    }
+
+    .news_card {
+        width: 350px;
+        height: 350px;
+    }
+
+    .news_card_title_one {
+        margin-top: 100px;
+    }
+
+    .news_card_title_two {
+        margin-top: 135px;
+    }
+
+    .news_card_title_three {
+        margin-top: 160px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__info {
+        max-width: 750px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__title {
+        width: 360px;
+    }
+
+    .drop-down__box h6 {
+        max-width: 150px;
+    }
+
+    /* set of set_of_session */
+
+    /* article */
+
+    .article-info__top img {
+        width: 600px;
+    }
+
+    /* article */
+
+}
+
+@media (max-width: 1024px) {
+    /* меню  */
+
+    .menu__item+.menu__item {
+        padding-left: 30px;
+    }
+
+    /* меню  */
+
+    /* index */
+
+    .info-company__inner {
+        padding: 160px 0;
+    }
+
+    .info-company__item {
+        min-width: 320px;
+        min-height: 125px;
+        padding: 40px 51px;
+    }
+
+    .team__item-img {
+        width: 250px;
+        height: 250px;
+    }
+
+    /* index */
+
+    /* attorney */
+
+    .attorney__address-inner {
+        justify-content: space-evenly;
+    }
+
+    .attorney__address-info {
+        max-width: 228px;
+    }
+
+    .attorney__address-info::before {
+        top: 2px;
+        left: -31px;
+    }
+
+    .attorney__address-text {
+        max-width: 65px;
+    }
+
+    .attorney__address-img {
+        margin-right: 5px;
+    }
+
+    .address__btn-left {
+        padding: 15px 42px 15px 11px;
+    }
+
+    .address__btn-right {
+        padding: 15px 35px 15px 10px;
+    }
+
+    .address__btn-left::after {
+        right: 5px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__wrapper {
+        padding: 60px;
+    }
+
+    .map__iframe {
+        width: 600px;
+    }
+
+    .contact-news__inner {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-row-gap: 153px;
+        margin-left: 85px;
+    }
+
+    .newsletter__info-text {
+        max-width: 465px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .faq__info {
+        max-width: 700px;
+    }
+
+    .rewievs__info-box {
+        width: 475px;
+    }
+
+    .rewievs__info-box__img {
+        left: 205px;
+    }
+
+    .news_card {
+        width: 300px;
+        height: 300px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__info {
+        max-width: 630px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__title {
+        width: 320px;
+        padding-top: 35px;
+    }
+
+    .drop-down__box h6 {
+        padding: 15px 20px;
+        font-size: 13px;
+        min-width: 130px;
+    }
+
+    /* set of set_of_session */
+
+    /* article */
+
+    .article-info__top {
+        margin-bottom: 20px;
+    }
+
+    .article-info__top-box p {
+        min-width: 352px;
+    }
+
+    /* article */
+
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 960px;
+    }
+
+    /* index */
+
+    .menu__item+.menu__item {
+        padding-left: 25px;
+    }
+
+    .info-company__inner {
+        padding: 160px 0;
+    }
+
+    .info-company__item {
+        min-width: 292px;
+        min-height: 110px;
+        padding: 29px 51px;
+    }
+
+    .info-company__item.item__btn {
+        background-position-y: -43px;
+    }
+
+    .info-company__item.btn {
+        background-position-y: -42px;
+    }
+
+    .team__item-img {
+        width: 230px;
+        height: 230px;
+    }
+
+    .method-inner {
+        padding: 160px 0;
+    }
+
+    .footer__info-item {
+        max-width: 320px;
+    }
+
+    /* index */
+
+    /* attorney */
+
+    .attorney {
+        background-position-x: -510px;
+    }
+
+    .attorney__address-info {
+        max-width: 131px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__wrapper {
+        padding: 40px;
+    }
+
+    .contact-form__left input {
+        width: 375px;
+    }
+
+    .contact-form__left button {
+        width: 375px;
+    }
+
+    .map__iframe {
+        width: 520px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .faq__info {
+        max-width: 630px;
+    }
+
+    .rewievs__info-box {
+        width: 450px;
+    }
+
+    .news_card_title_one {
+        margin-top: 60px;
+        font-size: 20px;
+    }
+
+    .news_card_title_two {
+        margin-top: 90px;
+        font-size: 20px;
+    }
+
+    .news_card_title_three {
+        margin-top: 115px;
+        font-size: 20px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__info {
+        max-width: 570px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__title {
+        width: 300px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    /* set of set_of_session */
+
+    /* team */
+
+    .team-of-lawyers__inner {
+        justify-content: space-around;
+    }
+
+    .team-of-lawyers__inner>.advice__contact-box {
+        margin-bottom: 20px;
+    }
+
+    /* team */
+
+    /* article */
+
+    .article-info__top img {
+        width: 560px;
+    }
+
+    /* article */
+
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+
+    /* index */
+
+    .menu__item {
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .menu__item+.menu__item {
+        padding-left: 15px;
+    }
+
+    .header__bottom-logo img {
+        width: 190px;
+    }
+
+    .header__bottom-text {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .slider__info-title {
+        font-size: 29px;
+        line-height: 30px;
+    }
+
+    .slider__info-text {
+        font-size: 20px;
+        line-height: 50px;
+    }
+
+    .slider__title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .slider__title-text {
+        font-size: 12px;
+        max-width: 530px;
+    }
+
+    .slick-dots {
+        top: 165px;
+    }
+
+    .slider__info-logo {
+        width: 60px;
+    }
+
+    .slider__logo {
+        width: 50px;
+    }
+
+    .banner-section {
+        height: 480px;
+    }
+
+    .banner-section__slider {
+        padding-top: 85px;
+        margin-left: 58px;
+        height: 400px;
+        width: 635px;
+    }
+
+    #slick-slide-control00 {
+        line-height: 25px;
+    }
+
+    #slick-slide-control01 {
+        line-height: 25px;
+    }
+
+    #slick-slide-control02 {
+        line-height: 25px;
+    }
+
+    .info-company__inner {
+        padding: 130px 0;
+    }
+
+    .info-company__title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .info-company__item {
+        min-width: 225px;
+        min-height: 83px;
+        padding: 24px 0px;
+        background-position-y: -33px;
+    }
+
+    .info-company__link {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .info-company__item.item-another {
+        background-position-y: -30px;
+    }
+
+    .team__title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .team__item-img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .team__inner {
+        padding-bottom: 120px;
+    }
+
+    .method-inner {
+        padding: 110px 0;
+    }
+
+    .method__title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
+    .footer__info-item {
+        max-width: 255px;
+        line-height: 18px;
+    }
+
+    /* index */
+
+    /* attorney */
+
+    .attorney {
+        background-position-x: -615px;
+    }
+
+    .attorney__address-inner {
+        display: block;
+        padding: 20px 0;
+        height: 200px;
+        max-width: 500px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .attorney__address-info {
+        max-width: none;
+        margin-bottom: 5px;
+    }
+
+    .attorney__address-info::before {
+        top: -8px;
+        left: 32px;
+    }
+
+    .attorney__address-text {
+        max-width: none;
+    }
+
+    .address__btn-left {
+        margin-right: 55px;
+        top: 30px;
+    }
+
+    .address__btn-right {
+        top: 30px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__wrapper {
+        padding: 53px 150px;
+    }
+
+    .contact-form__inner {
+        display: block;
+    }
+
+    .contact-form__title {
+        text-align: center;
+    }
+
+    .contact-form__left input {
+        width: 400px;
+    }
+
+    .contact-form__left button {
+        width: 400px;
+        position: absolute;
+        bottom: -287px;
+    }
+
+    .contact-form__right textarea {
+        width: 400px;
+        margin-bottom: 100px;
+    }
+
+    .contact-form__info {
+        text-align: center;
+        margin-left: 93px;
+        width: 400px;
+    }
+
+    .contact-form__info::before {
+        width: 400px;
+        height: 1px;
+        top: -17px;
+        left: -90px;
+    }
+
+    .contact-form__info-link {
+        margin-left: -50px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .top-info__inner-title {
+        font-size: 40px;
+    }
+
+    .faq__inner {
+        display: block;
+    }
+
+    .faq__info {
+        max-width: 650px;
+        margin: 0 auto;
+    }
+
+    .advice__contact {
+        max-width: 280px;
+        margin: 25px auto;
+    }
+
+    .rewievs__info {
+        display: block;
+    }
+
+    .rewievs__info-box {
+        width: 450px;
+        margin: 70px auto 0;
+    }
+
+    .section_news_cards_flex {
+        display: block;
+    }
+
+    .news_card {
+        margin: 20px auto;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__wrapper {
+        display: block;
+    }
+
+    .advice__info {
+        max-width: 600px;
+        margin: 20px auto;
+    }
+
+    .advice__title {
+        text-align: center;
+    }
+
+    .newsletter__inner {
+        padding: 55px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__inner {
+        display: block;
+    }
+
+    .drop-down__item {
+        margin: 20px auto;
+    }
+
+    /* set of set_of_session */
+
+    /* team */
+
+    .top-info__inner.team-page {
+        padding: 0;
+        justify-content: center;
+    }
+
+    /* team */
+
+    /* article */
+
+    .top-info__inner-title {
+        font-size: 30px;
+    }
+
+    .article-info__top {
+        flex-wrap: wrap;
+    }
+
+    .article-info__top img {
+        width: 100%;
+    }
+
+    .article-info__title,
+    .article-info__text {
+        text-align: center;
+    }
+
+    /* article */
+
+}
+
+@media (max-width: 540px) {
+    /* index */
+
+    .header__burger {
+        position: absolute;
+        display: block;
+        right: 20px;
+        top: 10px;
+    }
+
+    .header__burger-close {
+        position: absolute;
+        display: block;
+        z-index: 50;
+        right: 300px;
+        top: 40px;
+    }
+
+    .menu__list {
+        position: absolute;
+        z-index: 5;
+        display: none;
+        top: 0;
+        padding: 100px 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        background-color: #24253c;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .menu__item {
+        font-size: 22px;
+        line-height: 40px;
+        margin-left: 40px;
+    }
+
+    .menu__item+.menu__item {
+        padding-left: 0;
+    }
+
+    .header__bottom-inner {
+        justify-content: center;
+    }
+
+    .header__bottom-text {
+        display: none;
+    }
+
+    .banner-section__slider {
+        text-align: center;
+        margin-left: 35px;
+        height: 420px;
+    }
+
+    .slick-slide img {
+        display: none;
+    }
+
+    .slider__info {
+        margin: 70px 0 0 0;
+    }
+
+    .slider__info-title {
+        position: relative;
+    }
+
+    .slider__info-title::before {
+        content: '';
+        position: absolute;
+        background-image: url(../images/logo-slider.png);
+        background-repeat: no-repeat;
+        width: 80px;
+        height: 130px;
+        top: -140px;
+        left: 150px;
+    }
+
+    .slider__info-text {
+        line-height: 30px;
+    }
+
+    .slider__title {
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+
+    .slick-dots {
+        top: 360px;
+        display: flex;
+    }
+
+    .slick-dots li {
+        padding-left: 20px;
+    }
+
+    .slick-dots li button::after {
+        top: -19px;
+        right: 1px;
+        position: absolute;
+    }
+
+    #slick-slide-control00,
+    #slick-slide-control01,
+    #slick-slide-control02 {
+        right: 190px;
+        top: 15px;
+        padding: 0;
+        font-size: 20px;
+    }
+
+    #slick-slide-control00::before {
+        right: 11px;
+        top: 0px;
+    }
+
+    #slick-slide-control01::before {
+        right: 12px;
+        top: 0px;
+    }
+
+    #slick-slide-control02::before {
+        right: 12px;
+        top: 0px;
+    }
+
+    .info-company__inner {
+        padding: 80px 0;
+    }
+
+    .info-company__title {
+        font-size: 30px;
+        line-height: 40px;
+        margin-bottom: 30px;
+    }
+
+    .info-company__btn {
+        display: block;
+        text-align: -webkit-center;
+    }
+
+    .info-company__item {
+        width: 300px;
+        height: 150px;
+        padding: 50px 20px;
+        background-position-y: -45px;
+        background-size: inherit;
+        margin-bottom: 15px;
+    }
+
+    .info-company__item.item-another {
+        background-size: inherit;
+        background-position-y: -50px;
+    }
+
+    .info-company__btn.btn-another {
+        display: block;
+    }
+
+    .info-company__item.item__btn {
+        position: inherit;
+    }
+
+    .info-company__item.btn {
+        background-position-y: -45px;
+    }
+
+    .team__inner {
+        padding-bottom: 60px;
+    }
+
+    .team__item {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .team__item-img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .method-inner {
+        padding: 60px 0;
+    }
+
+    .method__title {
+        margin-bottom: 20px;
+    }
+
+    .footer__info-inner {
+        padding: 15px 0;
+    }
+
+    .footer__info-top {
+        margin-bottom: 15px;
+    }
+
+    .footer__info-list {
+        display: block;
+        max-width: none;
+        margin-left: 10px;
+    }
+
+    .footer__info-item {
+        margin-bottom: 10px;
+        max-width: none;
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .footer__info-bottom {
+        padding-top: 15px;
+    }
+
+    .header__top-inner.baseline {
+        display: block;
+        padding-top: 10px;
+    }
+
+    .header__top-inner.baseline>a {
+        margin-left: 260px;
+    }
+
+    .menu__list.block {
+        display: block;
+        position: inherit;
+        background-color: inherit;
+        padding-top: 0;
+        display: grid;
+    }
+
+    .menu__list.block li {
+        font-size: 16px;
+        line-height: 26px;
+        margin-left: 0;
+    }
+
+    .img-line {
+        display: block;
+    }
+
+    .footer__menu-bottom {
+        display: block;
+        height: 100%;
+        text-align: center;
+    }
+
+    /* index */
+
+    /* attorney */
+
+    .attorney {
+        background-size: 808px 491px;
+        background-position: -234px 20px;
+    }
+
+    .attorney__info-box {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .attorney__info-box:nth-child(5) {
+        display: flex;
+    }
+
+    .attorney__address-inner {
+        height: 230px;
+    }
+
+    .info__box-img {
+        order: 3;
+    }
+
+    .info-box__item {
+        width: 100%;
+        padding-top: 5px;
+    }
+
+    .info-box__item:nth-child(2) {
+        order: 3;
+    }
+
+    .info-box__text:nth-child(4) {
+        order: 4;
+    }
+
+    .search {
+        margin-bottom: 300px;
+    }
+
+    .address__btn-left {
+        margin-right: none;
+        top: 20px;
+        right: -95px;
+    }
+
+    .address__btn-right {
+        top: 75px;
+        right: 120px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__wrapper {
+        padding: 53px 65px;
+    }
+
+    .location {
+        padding-bottom: 25px;
+    }
+
+    .location__inner {
+        display: block;
+    }
+
+    .location__info-box {
+        margin: 0 auto 30px;
+    }
+
+    .location__info-btn {
+        margin-left: 135px;
+    }
+
+    .map__iframe {
+        position: static;
+        border-radius: 30px;
+        width: 500px;
+        height: 500px;
+        margin: 40px 15px;
+    }
+
+    .contact-news__inner {
+        margin-left: 0;
+    }
+
+    .contact-news__box {
+        max-width: 255px;
+    }
+
+    .newsletter__inner {
+        padding: 90px 60px;
+        width: 400px;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    .newsletter__title {
+        font-size: 35px;
+        line-height: 40px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .newsletter__info {
+        display: block;
+    }
+
+    .newsletter__info-text {
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .top-info__inner-title {
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .rewievs__top {
+        display: block;
+    }
+
+    .rewievs__title {
+        text-align: center;
+    }
+
+    .rewievs__link {
+        margin-left: 120px;
+    }
+
+    .section_news_flex {
+        display: block;
+        margin-top: 60px;
+    }
+
+    .section_news_title {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .section_news_btn {
+        padding: 20px 50px;
+        margin-left: 139px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .top-info__inner {
+        text-align: center;
+        padding: 55px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__item {
+        width: 55%;
+    }
+
+    /* set of set_of_session */
+
+    /* article */
+
+    .top-info__inner-title {
+        font-size: 30px;
+    }
+
+    /* article */
+
+    /* collection */
+    .privacy-policy__title {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    /* collection */
+
+}
+
+@media (max-width: 420px) {
+
+    /* меню  */
+    .menu__item {
+        font-size: 16px;
+        line-height: 30px;
+        margin-left: 22px;
+    }
+
+    /* меню */
+
+    /* index */
+
+    .banner-section {
+        height: 615px;
+    }
+
+    .banner-section__slider {
+        margin-left: 25px;
+        height: 570px;
+    }
+
+    .slider__info {
+        max-width: 175px;
+        margin: 60px auto 0;
+    }
+
+    .slider__info-title::before {
+        background-size: 60px;
+        left: 55px;
+    }
+
+    .slider__info-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .slider__title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+
+    .slider__title-text {
+        max-width: 345px;
+        margin: 0 auto;
+    }
+
+    #slick-slide-control00,
+    #slick-slide-control01,
+    #slick-slide-control02 {
+        right: 125px;
+        top: 180px;
+    }
+
+    .info-company__inner {
+        padding: 40px 0;
+    }
+
+    .info-company__title {
+        max-width: 300px;
+        margin: 0 auto 10px;
+    }
+
+    .menu__list.block {
+        padding: 0;
+    }
+
+    /* index */
+
+    /* attorney */
+
+    .attorney {
+        background-position-x: -335px;
+    }
+
+    .attorney__address-inner {
+        height: 275px;
+    }
+
+    .attorney__address-info {
+        max-width: 330px;
+        margin: 5px auto 5px;
+    }
+
+    .attorney__address-info::before {
+        left: -18px;
+    }
+
+    .address__btn-left {
+        right: -30px;
+    }
+
+    .address__btn-left::after {
+        top: 15px;
+    }
+
+    .address__btn-right {
+        top: 60px;
+        right: -5px;
+    }
+
+    .header__top-inner.baseline>a {
+        margin-left: 165px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__wrapper {
+        padding: 53px 30px;
+    }
+
+    .contact-form__left input,
+    .contact-form__right textarea,
+    .contact-form__left button {
+        width: 330px;
+    }
+
+    .contact-form__info {
+        margin-left: 55px;
+        width: 330px;
+    }
+
+    .contact-form__info::before {
+        width: 330px;
+        left: -55px;
+    }
+
+    .location__info-btn {
+        margin-left: 80px;
+    }
+
+    .map__iframe {
+        width: 350px;
+        height: 350px;
+        margin: 40px 25px;
+    }
+
+    .contact-news__inner {
+        grid-template-columns: auto;
+    }
+
+    .contact-news__box {
+        width: 350px;
+    }
+
+    .newsletter__inner {
+        padding: 70px 60px;
+    }
+
+    .contact-news__top-img {
+        left: 85px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .top-info__inner-title {
+        font-size: 30px;
+        line-height: 45px;
+    }
+
+    .top-info__inner-text {
+        text-align: center;
+    }
+
+    .rewievs__link {
+        margin-left: 60px;
+    }
+
+    .rewievs__info-box {
+        width: 300px;
+    }
+
+    .rewievs__info-box__img {
+        left: 115px;
+    }
+
+    .section_news {
+        padding: 45px 0;
+    }
+
+    .section_news_btn {
+        margin-left: 80px;
+    }
+
+    .section_news_cards_flex {
+        margin-top: 65px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__social-link {
+        margin: 0 10px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__item {
+        width: 75%;
+    }
+
+    /* set of set_of_session */
+
+    /* team  */
+
+    .team-of-lawyers__inner>.advice__contact-box+.advice__contact-box {
+        margin-bottom: 20px;
+    }
+
+    /* team  */
+
+    /* article */
+
+    .article-social__inner {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* article */
+
+    /* collection */
+
+    .privacy-policy__box {
+        justify-content: left;
+    }
+    
+    .privacy-policy__title {
+        font-size: 30px;
+        line-height: 35px;
+    }
+
+    .privacy-policy__spoiler-title {
+        height: 100px;
+    }
+
+    .privacy-policy__box-number,
+    .privacy-policy__box-title {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    /* collection */
+
+}
+
+@media (max-width: 390px) {
+
+    /* contact */
+
+    .contact-form__wrapper {
+        padding: 50px 20px;
+    }
+
+    .location__title {
+        font-size: 40px;
+    }
+
+    .location__info-box {
+        width: 300px;
+        height: 300px;
+        padding: 185px 20px 0 20px;
+    }
+
+    .location__info-btn {
+        margin-left: 60px;
+    }
+
+    .map__iframe {
+        margin: 35px 15px;
+    }
+
+    .newsletter__inner {
+        width: 350px;
+        height: 350px;
+        padding: 28px 60px;
+    }
+
+    .newsletter__title {
+        font-size: 30px;
+    }
+
+    .newsletter__info-btn a {
+        font-size: 13px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .top-info__inner {
+        padding: 55px;
+    }
+
+    .rewievs__link {
+        margin-left: 45px;
+    }
+
+    .section_news_btn {
+        margin-left: 65px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__title {
+        margin: 30px 0;
+        font-size: 40px;
+        line-height: 45px;
+    }
+
+    .advice__info-title {
+        text-align: center;
+    }
+
+    .advice__social-link {
+        margin: 0px 7px;
+    }
+
+    /* walking right */
+
+    /* article */
+
+    .article-info__top-box p {
+        min-width: 310px;
+    }
+
+    /* article */
+
+    /* collection */
+    .privacy-policy__title {
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+    .privacy-policy__box {
+        justify-content: start;
+    }
+
+    /* collection */
+
+}
+
+@media (max-width: 370px) {
+    /* contact */
+
+    .contact-form__title {
+        margin-bottom: 25px;
+    }
+
+    .contact-form__wrapper {
+        padding: 30px 10px;
+    }
+
+    .contact-form__left button {
+        bottom: -250px;
+    }
+
+    .contact-form__right textarea {
+        margin-bottom: 115px;
+    }
+
+    .map__iframe {
+        width: 300px;
+        height: 300px;
+        margin: 35px 30px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .top-info__inner {
+        padding: 50px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__info-title {
+        font-size: 20px;
+    }
+
+    .advice__social-link {
+        margin: 0px 5px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__item {
+        width: 85%;
+    }
+
+    /* set of set_of_session */
+
+    /* article */
+
+    .top-info__inner-title {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .article-info__top-box p {
+        min-width: 270px;
+    }
+
+    /* article */
+
+}
+
+@media (max-width: 350px) {
+
+    /* attorney */
+
+    .attorney__info-name {
+        padding-left: 20px;
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .attorney__info-box {
+        padding: 20px;
+    }
+
+    .attorney__address-info::before {
+        left: -9px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__left input,
+    .contact-form__right textarea,
+    .contact-form__left button {
+        width: 300px;
+    }
+
+    .contact-form__info {
+        margin-left: 40px;
+    }
+
+    .contact-form__info::before {
+        width: 300px;
+        left: -40px;
+    }
+
+    .map__iframe {
+        margin: 35px 15px;
+    }
+
+    .newsletter__inner {
+        width: 300px;
+        height: 300px;
+        padding: 10px 50px;
+    }
+
+    .newsletter__title {
+        margin-bottom: 10px;
+    }
+
+    .newsletter__info-text {
+        padding-bottom: 20px;
+    }
+
+    .newsletter__info-btn {
+        padding: 15px 55px 20px 15px;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .top-info__inner {
+        padding: 40px;
+    }
+
+    .rewievs__link {
+        margin-left: 40px;
+        padding: 20px 60px;
+    }
+
+    .section_news_btn {
+        margin-left: 45px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__info-text {
+        text-align: center;
+    }
+
+    .advice__social-link {
+        margin: 0px 3px;
+    }
+
+    .advice__contact-btn {
+        padding: 16px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__item {
+        width: 90%;
+    }
+
+    /* set of set_of_session */
+
+}
+
+@media (max-width: 320px) {
+
+    /* attorney */
+
+    .attorney__address-info {
+        max-width: 250px;
+    }
+
+    .attorney__address-info::before {
+        left: -25px;
+    }
+
+    .address__btn-left,
+    .address__btn-right {
+        font-size: 14px;
+    }
+
+    .header__top-inner.baseline>a {
+        margin-left: 130px;
+    }
+
+    /* attorney */
+
+    /* contact */
+
+    .contact-form__title {
+        font-size: 40px;
+    }
+
+    .contact-form__left input,
+    .contact-form__right textarea,
+    .contact-form__left button {
+        width: 280px;
+    }
+
+    .contact-form__info-link {
+        font-size: 14px;
+    }
+
+    .contact-form__info {
+        margin-left: 25px;
+    }
+
+    .contact-form__info::before {
+        width: 270px;
+        left: -20px;
+    }
+
+    .location__info-btn {
+        padding: 10px 50px;
+    }
+
+    .map__iframe {
+        margin: 35px 0;
+    }
+
+    /* contact */
+
+    /* faq */
+
+    .top-info__inner {
+        padding: 29px;
+    }
+
+    .rewievs__link {
+        margin-left: 25px;
+    }
+
+    .section_news_btn {
+        margin-left: 35px;
+    }
+
+    /* faq */
+
+    /* walking right */
+
+    .advice__info-title {
+        font-size: 16px;
+    }
+
+    .advice__social-link {
+        margin: 0;
+    }
+
+    .advice__contact-btn {
+        padding: 10px;
+    }
+
+    .advice__contact-inner {
+        padding: 12px;
+    }
+
+    .advice__contact-box {
+        padding: 0;
+        width: 219px;
+    }
+
+    /* walking right */
+
+    /* set of set_of_session */
+
+    .drop-down__item {
+        width: 100%;
+    }
+
+    /* set of set_of_session */
+
+    /* article */
+
+    .article-info__top-box p {
+        min-width: 250px;
+    }
+
+    /* article */
+    
+    /* collection */
+
+    .privacy-policy__spoiler-title {
+        justify-content: left;
+        padding: 0;
+    }
+
+    .privacy-policy__spoiler-arrow {
+        justify-content: space-evenly;
+    }
+
+    /* collection */
+}
